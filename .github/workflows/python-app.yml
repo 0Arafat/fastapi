@@ -50,4 +50,4 @@ jobs:
         run: |
           echo "Starting Deployment..."
           # Replace this echo with actual deployment code - for example:
-          # ssh user@my_server "cd/path/to/project && git pull && systemctl restart my-service"
+          # ssh user@my_server "cd/path/to/project && git pull && systemctl restart my-service" 
